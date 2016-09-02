@@ -1,0 +1,9 @@
+node_modules/
+.git
+.DS_Store
+package.json
+README
+CHANGELOG
+LICENSE
+._*
+npm-debug.log

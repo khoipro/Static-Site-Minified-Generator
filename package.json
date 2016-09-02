@@ -1,0 +1,33 @@
+{
+  "name": "Static Site Generator",
+  "version": "0.1.0",
+  "description": "This reposity using gulp tasks to compress js, css, images into a single folder destination. Help you creating a simple static site.",
+  "keywords": [
+    "gulp",
+    "static",
+    "generator",
+    "tool"
+  ],
+  "author": "Khoi Nguyen <admin@khoipro.com>",
+  "license" : {
+    "type" : "MIT",
+    "url" : "http://www.opensource.org/licenses/mit-license.php"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cache": "^0.4.5",
+    "gulp-concat": "^2.6.0",
+    "gulp-htmlmin": "^2.0.0",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-rename": "^1.2.2",
+    "gulp-ruby-sass": "^2.1.0",
+    "gulp-uglify": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khoipro/Static-Site-Minified-Generator"
+  },
+  "bugs": {
+    "url": "https://github.com/khoipro/Static-Site-Minified-Generator/issues"
+  }
+}
